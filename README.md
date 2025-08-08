@@ -47,24 +47,23 @@ Currently expanding my full-stack skills with MERN stack. I enjoy solving UI/UX 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jamiluddin-dev](https://www.linkedin.com/in/md-jamil2/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jamil2/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jamilWebdesign2024)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C897?style=flat&logo=google-chrome&logoColor=white)]([https://jamil-portfolio.vercel.app](https://jamil-portfolio-web.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C897?style=flat&logo=google-chrome&logoColor=white)](https://jamil-portfolio-web.netlify.app/)
 
 ---
-
 
 ## 📌 Featured Projects
 
 ### 1. 🧠 [StudySphere](https://github.com/jamilWebdesign2024/studys-phere-client)  
 An EdTech web app where students book study sessions, tutors upload materials, and admins manage everything.  
-🔗 [Live](https://study-sphere-fb1d4.web.app)  
+🔗 [Live](https://study-sphere-fb1d4.web.app) | [README](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-jamilWebdesign2024/blob/main/README.md)  
 **Stack:** React, Node.js, MongoDB, Firebase, Stripe  
 **Features:** Role-based dashboard, session booking, material uploads, JWT auth
 
 ### 2. 🏃‍♂️ [Athletic Club](https://github.com/jamilWebdesign2024/athletic-club)  
 A dynamic platform to manage athletic events, bookings, and participants.  
-🔗 [Live](https://athletic-club.vercel.app)  
+🔗 [Live](https://athletic-club.vercel.app) | [README](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-jamilWebdesign2024/blob/main/README.md)  
 **Stack:** React, Tailwind, Firebase, Express  
 **Features:** Event management, booking system, protected routes, Framer Motion
 
@@ -90,4 +89,3 @@ A plant monitoring web app with CRUD features and animation.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jamilWebdesign2024)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C897?style=flat&logo=google-chrome&logoColor=white)](https://jamil-portfolio-web.netlify.app/)
 
----
